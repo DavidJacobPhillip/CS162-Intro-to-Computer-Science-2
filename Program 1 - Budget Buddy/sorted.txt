@@ -1,0 +1,12 @@
+Your user ID is: 19882017
+Your current account balance is: 45210.7
+Number of transactions made on this account: 3
+
+Transaction data: 
+Purchase #1: 
+Date: 12/28/2019    Amount: 5288    Category: Housing    Description: Rent
+Purchase #2: 
+Date: 12/24/2019    Amount: 1015    Category: Entertainment    Description: Flute
+Purchase #3: 
+Date: 01/01/2020    Amount: 12    Category: Food    Description: Champagne
+
